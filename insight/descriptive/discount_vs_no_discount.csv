@@ -1,0 +1,3 @@
+discount_flag,orders,total_revenue,avg_revenue,avg_price_diff
+not_discounted,995,85766.36,86.19734673366834,5.164633165829145
+discounted,2003,176346.47,88.04117324013978,6.477157157157157
