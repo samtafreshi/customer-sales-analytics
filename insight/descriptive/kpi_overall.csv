@@ -1,8 +1,0 @@
-metric,value
-total_orders,2998.0
-total_revenue,262112.83
-avg_order_revenue,87.43
-discount_usage_rate,0.6681
-avg_discount_value_when_discounted,0.12
-avg_discount_pct_vs_base_when_discounted,0.0071
-avg_price_diff_unit_minus_base,6.04

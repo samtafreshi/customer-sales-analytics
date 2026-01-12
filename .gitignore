@@ -1,11 +1,31 @@
-﻿# Python
+﻿# =========================
+# Python
+# =========================
 __pycache__/
 *.pyc
 
+# =========================
 # IDE
+# =========================
 .vscode/
 .idea/
 
+# =========================
 # OS
+# =========================
 .DS_Store
 Thumbs.db
+
+# =========================
+# Project outputs (DO NOT COMMIT)
+# =========================
+data/raw/
+data/processed/
+insight/
+
+# =========================
+# Optional: keep empty folders
+# =========================
+!insight/.gitkeep
+!insight/**/.gitkeep
+
